@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GobPatchMaker", "GobPatchMaker\GobPatchMaker.csproj", "{3243D1AF-5194-4D9C-AD76-76ABC4F00F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3243D1AF-5194-4D9C-AD76-76ABC4F00F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3243D1AF-5194-4D9C-AD76-76ABC4F00F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3243D1AF-5194-4D9C-AD76-76ABC4F00F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3243D1AF-5194-4D9C-AD76-76ABC4F00F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DDDA93B-420B-4880-982F-BE90CB61D6E3}
+	EndGlobalSection
+EndGlobal
